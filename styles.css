@@ -1,0 +1,12 @@
+.banner{
+    background-image:'E:\STUDY\my PF\pic\hh.jpg';
+    background-size: cover;
+    padding: 150px;
+    background-repeat: no-repeat;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.skills{
+    background-color: rgb(230, 255, 255);
+}
